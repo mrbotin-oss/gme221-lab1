@@ -17,3 +17,8 @@ and performs a parcel–landuse overlay analysis.
 ## Outputs
 - PostGIS table: `parcel_landuse_percentage`
 - Visualization in QGIS
+
+## Reflection
+- This connection allow Python to act as an interface between GIS algorithms that we did in PostGIS 
+- The main.py translate spatial intent into computational executions
+- 
