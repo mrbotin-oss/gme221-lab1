@@ -25,3 +25,6 @@ and performs a parcel–landuse overlay analysis.
 
 ## Reflection - Overlay Analysis Milestone
 - After checking the given code and running the script, the result gives us a new table of our created script which is to compute landuse percentage
+
+## Reflection - Interpreting Algorithm Output
+-
