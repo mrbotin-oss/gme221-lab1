@@ -19,9 +19,8 @@ and performs a parcel–landuse overlay analysis.
 - Visualization in QGIS
 
 ## Reflection - Database Connection Milestone
-- This connection allow Python to act as an interface between GIS algorithms that we did in PostGIS. 
+- Finishing this part of our Laboratory Exercise, this connection allow Python to act as an interface between GIS algorithms that we did in PostGIS. 
 - The main.py translate spatial intent into computational executions.
-- 
 
 ## Reflection - Overlay Analysis Milestone
 - After checking the given code and running the script, the result gives us a new table of our created script which is to compute landuse percentage.
